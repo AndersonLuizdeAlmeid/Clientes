@@ -1,0 +1,15 @@
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\bin\Debug\net7.0\OOP.exe
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\bin\Debug\net7.0\OOP.deps.json
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\bin\Debug\net7.0\OOP.dll
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\bin\Debug\net7.0\OOP.pdb
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\OOP.csproj.AssemblyReference.cache
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\OOP.dll
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\refint\OOP.dll
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\OOP.pdb
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+C:\Users\anderson.lalmeida\Desktop\Totvs\c#\OOP\obj\Debug\net7.0\ref\OOP.dll
